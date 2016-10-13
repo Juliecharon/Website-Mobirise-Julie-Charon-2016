@@ -9,6 +9,7 @@
 
 
 
+
 #header1-0 .mbr-section-title {
   color: #2b0680;
   font-family: 'Oswald', sans-serif;
@@ -25,6 +26,10 @@
   color: #2b0680;
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-size: 72px;
+}
+#content1-0 P {
+  font-family: 'Oswald', sans-serif;
+  text-align: right;
 }
 #header3-0 .mbr-section-title,
 #header3-0 .mbr-section-subtitle {

@@ -94,6 +94,23 @@
           "text": ""
         },
         {
+          "_name": "content1",
+          "_anchor": "content1-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>HALLO</b></p><p>Ik ben Julie Charon, een student Textiel Ontwerp op LUCA school of Arts in Gent.</p><p>Ik ben vooral bezig met grafische patronen in combinatie met verschillende</p><p>texturen en materialen.</p>",
+          "_styles": {
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "right"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
